@@ -1,0 +1,35 @@
+<resources>
+
+
+    <string name="app_name">Connect</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+
+    <string-array name="todolistoptions">
+        <item>Approval</item>
+        <item>Verification</item>
+    </string-array>
+
+    <string-array name="myLeadsOptions">
+        <item>Active</item>
+    </string-array>
+
+    <string name="One">one</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+
+    <string name="permission">Do we have permission to contact this lead </string>
+    <string name="no_permission">If you have not received permission for the lead approvers to make contact with your lead, we will not be able to show the contact details of your lead to the lead approvers</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_call_centre_support">Call Centre</string>
+    <string name="continued_involvement">Depending on if you are able to assist in converting the lead you will be able to earn the future involvement incentive. Select YES if you are interested in future involvement.</string>
+</resources>
