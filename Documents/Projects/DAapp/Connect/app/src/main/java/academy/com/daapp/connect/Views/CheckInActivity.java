@@ -38,7 +38,7 @@ public class CheckInActivity extends Activity implements View.OnClickListener, N
     private EditText edtComment;
     private int mood = 0;
     private String comment;
-    private Button btnSubmit;
+    private Button btnSubmit,btnDone;
     private static final String URL = "http://masscash.empirestate.co.za/BeaconAppTest/phpStoredProcedure/API/checkIn.php";
     JSONParser jsonParser;
 
