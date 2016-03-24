@@ -39,6 +39,8 @@ public class MainActivity extends Activity implements View.OnClickListener{
     private int teamLeadersID,academiesID;
     private Context context;
     private static final String URL = "http://masscash.empirestate.co.za/BeaconAppTest/phpStoredProcedure/API/register.php";
+
+    private Button btnNew;
     JSONParser jsonParser;
     JSONObject team;
     JSONObject jsonObject;
